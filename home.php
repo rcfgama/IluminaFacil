@@ -1,5 +1,6 @@
 <div class="home">
-	<form action="processa.php" method="post">
+	<!-- Arquivo home para o programa Ilumina Fácil, desenvolvido por Ronaldo Gama. Versão 1.1 -->
+	<form action="?b=processa" method="post">
 		<p><label>Tipo do ambiente:</label><br>
 		<select name="ambiente">
 			<option value="1">1 - AMBIENTES COMUNS</option>

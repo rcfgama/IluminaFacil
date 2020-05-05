@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html>
+<html> 
+<!-- Arquivo header para o programa Ilumina Fácil, desenvolvido por Ronaldo Gama. Versão 1.1 --> 
 	<head>
 		<title>Ilumina Fácil</title>
 		<meta charset="utf-8">
